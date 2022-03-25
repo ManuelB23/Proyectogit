@@ -14,6 +14,9 @@ doble rendija, expuesto en clase "proyectoexposicion"
 Forma de uso:
 En los programas se encuentra asignado el tipo de parametro deseado y lo que este debe retornar en base a sus asignaciones.
 
+OBSERVABLES Y MEDIDAS
+En este apartado, se usan los programas anteriormente usados, con el fin de conseguir una adaptacion a los ejercicios correspondientes solicitados en clase los 
+cuales se aplican con las librerias desarrolladas en semanas pasadas.
 
 Autor: Manuel Felipe Barrera Barrera
 
